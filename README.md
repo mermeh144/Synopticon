@@ -6,7 +6,7 @@ Synopticon lets you monitor multiple live streams simultaneously in a clean, res
 
 ---
 
-![Synopticon](synopticon.ico)
+![Synopticon](screenshot.jpg)
 
 ---
 

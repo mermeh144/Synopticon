@@ -1,25 +1,31 @@
-# PyInstaller build artifacts
-build/
-dist/
-*.spec.bak
+# Python
 __pycache__/
 *.pyc
 *.pyo
+*.egg-info/
+dist/
+build/
 
-# User config
-.synopticon.json
+# PyInstaller
+*.manifest
 
-# Temp files
-*.tmp
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
-desktop.ini
+# Virtual environments
+venv/
+.venv/
 
 # IDE
 .vscode/
 .idea/
-*.suo
-*.user
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Synopticon user config
+.synopticon.json
+
+# Bundled binary (users supply their own)
+ffmpeg.exe

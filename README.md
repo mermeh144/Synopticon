@@ -6,7 +6,7 @@ Synopticon lets you monitor multiple live streams simultaneously in a clean, res
 
 ---
 
-![Synopticon](screenshot.jpg)
+![Synopticon](synopticon.ico)
 
 ---
 
@@ -219,4 +219,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-*Synopticon v1.00*
+*Synopticon v1.01*

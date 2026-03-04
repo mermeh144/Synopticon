@@ -1,0 +1,34 @@
+{
+  "name": "Cyberpunk 2077",
+  "author": "Camera Companion",
+  "colors": {
+    "BG":           "#050508",
+    "TILE_BG":      "#0a0810",
+    "TILE_BORDER":  "#ff003c",
+    "TILE_HOVER":   "#1a0010",
+    "ACCENT":       "#fcee09",
+    "ACCENT_DIM":   "#443300",
+    "OFFLINE_RED":  "#ff003c",
+    "ONLINE_GREEN": "#00ffaa",
+    "TEXT":         "#fcee09",
+    "TEXT_DIM":     "#554400",
+    "SETTINGS_BG":  "#03030a",
+    "INPUT_BG":     "#0a0810",
+    "INPUT_BD":     "#ff003c",
+    "BTN_BG":       "#140018",
+    "BTN_HOVER":    "#220028"
+  },
+  "font_family": "Consolas",
+  "style": {
+    "title":            "▶  CAMERA  COMPANION",
+    "dot_char":         "▶",
+    "close_char":       "✕",
+    "gear_char":        "⚙",
+    "fs_char":          "⛶",
+    "drag_char":        "⠿",
+    "border_width":     2,
+    "title_bar_height": 36,
+    "settings_relief":  "flat",
+    "tile_fx":          "cyberpunk"
+  }
+}

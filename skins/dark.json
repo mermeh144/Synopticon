@@ -1,0 +1,33 @@
+{
+  "name": "Dark",
+  "author": "Camera Companion",
+  "colors": {
+    "BG":           "#080810",
+    "TILE_BG":      "#0e0e1a",
+    "TILE_BORDER":  "#1a1a2e",
+    "TILE_HOVER":   "#2a2a50",
+    "ACCENT":       "#4070ff",
+    "ACCENT_DIM":   "#1a2a66",
+    "OFFLINE_RED":  "#cc2233",
+    "ONLINE_GREEN": "#22cc66",
+    "TEXT":         "#c0c0e0",
+    "TEXT_DIM":     "#404060",
+    "SETTINGS_BG":  "#0c0c18",
+    "INPUT_BG":     "#12121f",
+    "INPUT_BD":     "#252540",
+    "BTN_BG":       "#1a1a30",
+    "BTN_HOVER":    "#252545"
+  },
+  "font_family": "Consolas",
+  "style": {
+    "title":        "◉ CAMERA  COMPANION",
+    "dot_char":     "●",
+    "close_char":   "✕",
+    "gear_char":    "⚙",
+    "fs_char":      "⛶",
+    "drag_char":    "≡",
+    "border_width": 1,
+    "title_bar_height": 36,
+    "settings_relief": "flat"
+  }
+}

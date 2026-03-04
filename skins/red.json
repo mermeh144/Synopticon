@@ -1,0 +1,33 @@
+{
+  "name": "Red",
+  "author": "Camera Companion",
+  "colors": {
+    "BG":           "#100808",
+    "TILE_BG":      "#1a0e0e",
+    "TILE_BORDER":  "#2e1a1a",
+    "TILE_HOVER":   "#501a1a",
+    "ACCENT":       "#ff4444",
+    "ACCENT_DIM":   "#661a1a",
+    "OFFLINE_RED":  "#ff6600",
+    "ONLINE_GREEN": "#22cc66",
+    "TEXT":         "#e0c0c0",
+    "TEXT_DIM":     "#604040",
+    "SETTINGS_BG":  "#180c0c",
+    "INPUT_BG":     "#1f1212",
+    "INPUT_BD":     "#402525",
+    "BTN_BG":       "#301a1a",
+    "BTN_HOVER":    "#452525"
+  },
+  "font_family": "Consolas",
+  "style": {
+    "title":        "◉ CAMERA  COMPANION",
+    "dot_char":     "●",
+    "close_char":   "✕",
+    "gear_char":    "⚙",
+    "fs_char":      "⛶",
+    "drag_char":    "≡",
+    "border_width": 1,
+    "title_bar_height": 36,
+    "settings_relief": "flat"
+  }
+}

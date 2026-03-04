@@ -1,0 +1,33 @@
+{
+  "name": "Navy",
+  "author": "Camera Companion",
+  "colors": {
+    "BG":           "#0a1628",
+    "TILE_BG":      "#0d1e38",
+    "TILE_BORDER":  "#1a3055",
+    "TILE_HOVER":   "#1e4080",
+    "ACCENT":       "#4db8ff",
+    "ACCENT_DIM":   "#0a2a44",
+    "OFFLINE_RED":  "#ff4455",
+    "ONLINE_GREEN": "#33ddaa",
+    "TEXT":         "#a0c8f0",
+    "TEXT_DIM":     "#304060",
+    "SETTINGS_BG":  "#071220",
+    "INPUT_BG":     "#0c1a30",
+    "INPUT_BD":     "#1a3050",
+    "BTN_BG":       "#0e2040",
+    "BTN_HOVER":    "#163060"
+  },
+  "font_family": "Consolas",
+  "style": {
+    "title":        "◉ CAMERA  COMPANION",
+    "dot_char":     "◆",
+    "close_char":   "✕",
+    "gear_char":    "⚙",
+    "fs_char":      "⛶",
+    "drag_char":    "≡",
+    "border_width": 1,
+    "title_bar_height": 36,
+    "settings_relief": "flat"
+  }
+}

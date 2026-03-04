@@ -1,0 +1,33 @@
+{
+  "name": "Light",
+  "author": "Camera Companion",
+  "colors": {
+    "BG":           "#f0f0f5",
+    "TILE_BG":      "#ffffff",
+    "TILE_BORDER":  "#d0d0e0",
+    "TILE_HOVER":   "#e0e0ff",
+    "ACCENT":       "#2255cc",
+    "ACCENT_DIM":   "#aabbee",
+    "OFFLINE_RED":  "#cc2233",
+    "ONLINE_GREEN": "#22aa55",
+    "TEXT":         "#111122",
+    "TEXT_DIM":     "#8888aa",
+    "SETTINGS_BG":  "#e8e8f0",
+    "INPUT_BG":     "#ffffff",
+    "INPUT_BD":     "#b0b0cc",
+    "BTN_BG":       "#d8d8ec",
+    "BTN_HOVER":    "#c8c8e0"
+  },
+  "font_family": "Segoe UI",
+  "style": {
+    "title":        "◉ CAMERA  COMPANION",
+    "dot_char":     "●",
+    "close_char":   "✕",
+    "gear_char":    "⚙",
+    "fs_char":      "⛶",
+    "drag_char":    "≡",
+    "border_width": 1,
+    "title_bar_height": 36,
+    "settings_relief": "flat"
+  }
+}

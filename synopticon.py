@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Synopticon v2
+Synopticon v1.01
 -------------------
 Fast HLS thumbnail grid companion for PotPlayer.
 

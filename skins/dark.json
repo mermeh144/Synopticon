@@ -1,6 +1,6 @@
 {
   "name": "Dark",
-  "author": "Camera Companion",
+  "author": "Synopticon",
   "colors": {
     "BG":           "#080810",
     "TILE_BG":      "#0e0e1a",
@@ -20,7 +20,7 @@
   },
   "font_family": "Consolas",
   "style": {
-    "title":        "◉ CAMERA  COMPANION",
+    "title":        "◉ SYNOPTICON",
     "dot_char":     "●",
     "close_char":   "✕",
     "gear_char":    "⚙",

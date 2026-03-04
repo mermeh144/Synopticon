@@ -1,6 +1,6 @@
 {
   "name": "Light",
-  "author": "Camera Companion",
+  "author": "Synopticon",
   "colors": {
     "BG":           "#f0f0f5",
     "TILE_BG":      "#ffffff",
@@ -20,7 +20,7 @@
   },
   "font_family": "Segoe UI",
   "style": {
-    "title":        "◉ CAMERA  COMPANION",
+    "title":        "◉ SYNOPTICON",
     "dot_char":     "●",
     "close_char":   "✕",
     "gear_char":    "⚙",

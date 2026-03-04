@@ -1,6 +1,6 @@
 {
   "name": "Navy",
-  "author": "Camera Companion",
+  "author": "Synopticon",
   "colors": {
     "BG":           "#0a1628",
     "TILE_BG":      "#0d1e38",
@@ -20,7 +20,7 @@
   },
   "font_family": "Consolas",
   "style": {
-    "title":        "◉ CAMERA  COMPANION",
+    "title":        "◉ SYNOPTICON",
     "dot_char":     "◆",
     "close_char":   "✕",
     "gear_char":    "⚙",
